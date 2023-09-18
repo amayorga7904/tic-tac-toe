@@ -289,5 +289,5 @@ renderBoard()
     renderBoard()
     startButton.innerText = 'Replay'
     message.innerText = 'Ready?'
-    startButton.disabled = false
+    // startButton.disabled = false
  })
